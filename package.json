@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreeOD/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreeOD/test/issues"
+  },
+  "homepage": "https://github.com/BreeOD/test#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
